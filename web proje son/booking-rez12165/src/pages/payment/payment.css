@@ -1,0 +1,101 @@
+.textCss {
+  max-width: 100%;
+  width: 14vw;
+  height: 2.7vh;
+  border-radius: 0.3px;
+  font-size: 13px;
+  outline: none;
+  transition: all 0.3s;
+  text-align: center;
+  background-color: mistyrose;
+  margin: 7px;
+  margin-left: 20%;
+}
+
+/* .formGroup {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 1rem;
+    font-weight: bold;
+    color: white;
+    background-color: #40005d;
+    border: 0.5px solid white;
+    padding: 6rem;
+    width: 200px;
+    text-align: center;
+    border-radius: 12px;
+  } */
+
+.cardContainer {
+  margin: 3rem;
+}
+
+.payment {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 70px;
+  width: 70rem;
+  height: 75vh;
+}
+
+.bilgiForm {
+  max-width: 100%;
+  width: 25vw;
+  height: 65vh;
+  border-color: black;
+  border-radius: 12px;
+  background-color: #5971a8;
+  border: 0.5px solid white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.globalContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.paymentFirst {
+  height: 65vh;
+  width: 70rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.paymentSecond {
+  height: 10vh;
+  width: 70rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.onaylaBtn {
+  font-size: 18px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-style: italic;
+  border: 0.5px solid white;
+  padding: 0.2rem;
+  width: 10rem;
+  border-radius: 25px;
+  background-color: rgb(43, 5, 236);
+  color: #fff;
+}
+
+.pTitle {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 15px;
+  color: white;
+  text-align: center;
+  margin: 0;
+}

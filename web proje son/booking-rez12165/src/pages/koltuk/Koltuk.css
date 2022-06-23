@@ -1,0 +1,66 @@
+.airlinesFullPage {
+  width: 100vw;
+  height: 100vh;
+  background-color: orange;
+}
+
+.formContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-top: 120px;
+}
+
+.formKoltuk {
+  width: 60vw;
+  height: 60vh;
+  border: 1px solid #fff;
+}
+
+.formFirst {
+  width: 60vw;
+  height: 50vh;
+}
+
+.formSecond {
+  width: 60vw;
+  height: 10vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.seatpng {
+  width: 45px;
+}
+
+.seatContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.asd {
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtUwXwKrLPyhsYGJPNsmxqt8S4wI74hGj6Rg&usqp=CAU);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 50px;
+  height: 40px;
+  border-radius: 31px;
+  padding: 15px;
+  text-align: left;
+  margin: 10px;
+  cursor: pointer;
+  margin: 25px;
+}
+
+.seatId {
+  margin-left: 13px;
+  margin-top: 30px;
+  font-size: 25px;
+}

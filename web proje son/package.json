@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "emailjs": "^4.0.0",
+    "react-credit-cards": "^0.8.3"
+  }
+}

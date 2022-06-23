@@ -1,0 +1,75 @@
+.fullPage {
+  width: 100vw;
+  height: 100vh;
+  background-image: url("../Login/2248344.jpg");
+  background-size: cover;
+  background-position: top;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.form {
+  width: 25vw;
+  height: 60vh;
+  font-size: 15px;
+  border-style: solid;
+  border-color: #fff;
+  border-width: 1px;
+}
+
+.firstPage {
+  height: 30vh;
+  width: 25vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.secondPage {
+  /* height: 5vh; */
+  width: 25vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.logTitle {
+  text-align: center;
+  color: white;
+}
+
+.baslik {
+  color: white;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+.TextCss {
+  height: 30px;
+  width: 230px;
+  border: 2px solid #2f2c45;
+  background: #272530;
+  font-size: 15px;
+  border-radius: 5px;
+  outline: none;
+  transition: all 0.3s;
+  color: #fff;
+  text-align: center;
+  margin: 10px;
+}
+
+.button {
+  width: 140px;
+  height: 30px;
+  border-radius: 5px;
+  font-size: 15px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  background-color: #2f2c45;
+  background: #272530;
+  color: white;
+}
